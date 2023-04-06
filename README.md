@@ -1,2 +1,2 @@
 # lesson5temp
-# try git
+# project for learning purpose
